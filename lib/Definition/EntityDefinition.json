@@ -400,7 +400,7 @@
 		"name"			: "luminosity",
 		"optional"		: ["resolution"],
 		"icon"			: "sun.png",
-		"unit"			: "lx",
+		"unit"			: "cd",
 		"interpreter"		: "Volkszaehler\\Interpreter\\SensorInterpreter",
 		"model"			: "Volkszaehler\\Model\\Channel",
 		"translation"		: {
